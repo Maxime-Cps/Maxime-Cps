@@ -20,70 +20,59 @@ I'm a student in Computer Science at the **University of Strasbourg**.
 <br>
 I'm passionate about **Music**, **Golf** and **Automobile**.
 
+🔭 I’m currently working on a Golf WebApp project and my Web Portfolio.
+
+## This Week I Spent My Time On:
+
+```txt
+    JavaScript   13 hrs 43 mins  █████████████████████████   100.00 %
+    CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+    HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+    Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+    PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+    SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 ## My skills
 
 ### ◽️ Programming languages
 
-<a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" alt="C"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/PHP-603187?style=for-the-badge&logo=php&logoColor=white" alt="JavaScript"/>
-</a>
+
 
 ### ◽️ Frameworks
 
-<a>
+
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/React-0a7ea4?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/Laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white" alt="Angular"/>
-</a>
+
 
 ### ◽️ Databases
 
-<a>
   <img src="https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-</a>
+
 
 ### ◽️ IDE
 
-<a>
+
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
-</a>
+
 
 ### ◽️ Tools
 
-<a>
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
-<a>
   <img src="https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white" alt="Git"/>
-</a>
+
 
 
 ## My stats
