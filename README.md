@@ -16,7 +16,7 @@
   - 📧 Email: [click here !](maxime.chapuis60@gmail.com)
   - 📌 Location: Strasbourg, France
   - 📝 [Portfolio](https://myportfolio-maxime-chapuis.vercel.app/)
-  - 📝 [LinkedIn](https://www.linkedin.com/in/maxime-chapuis-1b1b3b1b3/)
+  - 📝 [LinkedIn](https://www.linkedin.com/in/maxime-chapuis-dev/)
 
 </details>
 
