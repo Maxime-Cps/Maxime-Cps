@@ -28,14 +28,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 ## This Week I Spent My Time On:
 
-```txt
-    JavaScript   0 secs          █████████████████████████   00.00 %
-    CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-    HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-    Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-    PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-    SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
+[![Maxime's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M3SSM0CKY)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
