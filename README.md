@@ -21,6 +21,9 @@ I'm a student in Computer Science at the **University of Strasbourg**.
 I'm passionate about **Music**, **Golf** and **Automobile**.
 
 🔭 I’m currently working on a Golf WebApp project and my Web Portfolio.
+<br>
+<br>
+[![wakatime](https://wakatime.com/badge/user/5f7eb571-b054-4c7e-825f-bf1e9160676b.svg)](https://wakatime.com/@5f7eb571-b054-4c7e-825f-bf1e9160676b)
 
 ---
 
