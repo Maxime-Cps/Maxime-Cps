@@ -1,13 +1,11 @@
-<h1 align="center">
-  Hi 👋<br>
-  I'm Maxime Chapuis
-</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+!;I'm+Maxime+Chapuis;Feel+free+to+take+a+look+at+my+GitHub+Profile&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ---
 
-## Contact me
-
-###  📫 How to reach me:
+##  📫 How to reach me:
 
   - 📧 Email: [click here !](maxime.chapuis60@gmail.com)
   - 📌 Location: Strasbourg, France
@@ -69,6 +67,10 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![Figma](https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Maxime's WakaTime stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/wakatime?username=M3SSM0CKY)
 <br>
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
