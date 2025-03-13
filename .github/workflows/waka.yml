@@ -18,3 +18,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_TIMELINE: "False"
+          SHOW_LOC_CHART: "False"
