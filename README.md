@@ -28,7 +28,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 ## This Week I Spent My Time On:
 
-
+![Maxime's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M3SSM0CKY)
 
 ---
 
