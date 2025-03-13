@@ -1,20 +1,30 @@
 
+<h1 align="center">Maxime Chapuis</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+!;I'm+Maxime+Chapuis;Check+out+my+GitHub+Profile+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT;Certainly+Coding+or+Golfing&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+    <br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Student;right+now&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ---
+<details open>
+    <summary><h2>📫 How to reach me :</h2></summary>
+<br>
 
-##  📫 How to reach me:
 
   - 📧 Email: [click here !](maxime.chapuis60@gmail.com)
   - 📌 Location: Strasbourg, France
   - 📝 [Portfolio](https://myportfolio-maxime-chapuis.vercel.app/)
   - 📝 [LinkedIn](https://www.linkedin.com/in/maxime-chapuis-1b1b3b1b3/)
 
+</details>
+
 ---
 
-## About me
+<details open>
+    <summary><h2>🙋🏻‍️ About me </h2></summary>
+<br>
 
 I'm a student in Computer Science at the **University of Strasbourg**.
 <br>
@@ -22,9 +32,13 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 🔭 I’m currently working on a Golf WebApp project and my Web Portfolio.
 
+</details>
+
 ---
 
-## My skills
+<details open>
+    <summary><h2>🛠️ My Favorite Tools </h2></summary>
+<br>
 
 ### ◽️ Programming languages
 
@@ -36,8 +50,6 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
 
 ### ◽️ Frameworks
 
@@ -60,9 +72,13 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white)
 
+</details>
+
 ---
 
-## My stats
+<details open>
+    <summary><h2>📈 My GitHub Stats</h2></summary>
+<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%204%20mins-blue)
@@ -130,17 +146,8 @@ JavaScript               1 repo              █████░░░░░░�
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
 ![Maxime-Cps's Top Languages](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/top-langs/?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
-<!--
-**Maxime-Cps/Maxime-Cps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
