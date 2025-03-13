@@ -28,7 +28,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 ## This Week I Spent My Time On:
 
-![Maxime's WakaTime stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/wakatime?username=M3SSM0CKY)
+![Maxime's weekly stats](https://myportfolio-maxime-chapuis.vercel.app/ressources/weekly_stats.svg)
 
 ---
 
@@ -69,8 +69,10 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![Figma](https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My stats
-
+![Maxime's WakaTime stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/wakatime?username=M3SSM0CKY)
+<br>
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
+<br>
 ![Maxime-Cps's Top Languages](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/top-langs/?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 <!--
