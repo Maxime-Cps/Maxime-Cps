@@ -27,12 +27,6 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 ---
 
-## This Week I Spent My Time On:
-
-![Maxime's weekly stats](https://myportfolio-maxime-chapuis.vercel.app/ressources/weekly_stats.svg)
-
----
-
 ## My skills
 
 ### ◽️ Programming languages
