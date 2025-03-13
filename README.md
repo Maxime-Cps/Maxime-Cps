@@ -60,6 +60,8 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## My stats
 
 <!--START_SECTION:waka-->
