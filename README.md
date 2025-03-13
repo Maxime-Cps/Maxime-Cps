@@ -28,7 +28,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 ## This Week I Spent My Time On:
 
-![Maxime's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M3SSM0CKY)
+![Maxime's WakaTime stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/wakatime?username=M3SSM0CKY)
 
 ---
 
@@ -70,8 +70,8 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 ## My stats
 
-![Maxime-Cps's Stats](https://github-readme-stats.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
-![Maxime-Cps's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
+![Maxime-Cps's Top Languages](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api/top-langs/?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **Maxime-Cps/Maxime-Cps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
