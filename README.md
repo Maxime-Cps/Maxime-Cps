@@ -73,6 +73,12 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=figma&logoColor=white)
 
+### ◽️ Misc
+
+![Jakarta ServerPage - JSP](https://img.shields.io/badge/JSP-F05032?style=for-the-badge&logo=java&logoColor=white)
+![Jalios](https://img.shields.io/badge/Jalios-F05032?style=for-the-badge&logo=jalios&logoColor=white)
+
+
 </details>
 
 ---
