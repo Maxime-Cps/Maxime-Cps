@@ -66,6 +66,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-6614B8?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### ◽️ Tools
 
