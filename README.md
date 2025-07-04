@@ -88,7 +88,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -119,13 +119,18 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               22 mins             ██████████████░░░░░░░░░░░   57.26 % 
+CSS                      11 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+HTML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 38 mins             █████████████████████████   99.93 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +146,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 01:38:17 UTC
+ Last Updated on 04/07/2025 01:37:35 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
