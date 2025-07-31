@@ -88,45 +88,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-🌆 Daytime                62 commits          █████████████░░░░░░░░░░░░   51.67 % 
-🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 53 commits          ███████████░░░░░░░░░░░░░░   44.17 % 
-Friday                   33 commits          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -141,7 +103,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 01:46:12 UTC
+ Last Updated on 31/07/2025 01:45:34 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
