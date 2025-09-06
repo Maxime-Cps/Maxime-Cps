@@ -88,7 +88,7 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -119,15 +119,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       2 hrs 10 mins       █████████████████████████   99.76 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-PlantUML file            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Text                     1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+JavaScript               56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+C#                       48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+TypeScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 46 mins       ██████████████████░░░░░░░   70.35 % 
+IntelliJ IDEA            48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Notion                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,7 +147,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 01:20:23 UTC
+ Last Updated on 06/09/2025 01:18:00 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
