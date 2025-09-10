@@ -12,8 +12,6 @@
     <summary><h2>📫 How to reach me :</h2></summary>
 <br>
 
-
-  - 📧 Email: [click here !](maxime.chapuis60@gmail.com)
   - 📌 Location: Strasbourg, France
   - 📝 [Portfolio](https://myportfolio-maxime-chapuis.vercel.app/)
   - 📝 [LinkedIn](https://www.linkedin.com/in/maxime-chapuis-dev/)
