@@ -13,7 +13,7 @@
 <br>
 
   - 📌 Location: Strasbourg, France
-  - 📝 [Portfolio](https://myportfolio-maxime-chapuis.vercel.app/)
+  - 📝 [Portfolio](https://myportfolio-final-nu.vercel.app/)
   - 📝 [LinkedIn](https://www.linkedin.com/in/maxime-chapuis-dev/)
 
 </details>
