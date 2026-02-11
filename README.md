@@ -30,8 +30,19 @@ I'm passionate about **Music**, **Golf** and **Automobile**.
 
 🔭 I’m currently working on a Golf WebApp project and my Web Portfolio.
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/fr/playlist/replay-votre-historique/pl.rp-LPCVMBLNp">
-</iframe>
+</details>
+
+---
+
+<details open>
+    <summary><h2>🎧 My Apple Music Best of All Time </h2></summary>
+<br>
+
+<p align="center">
+  <a href="https://music.apple.com/fr/playlist/replay-votre-historique/pl.rp-LPCVMBLNp">
+    <img src="https://img.shields.io/badge/Listen%20on-Apple%20Music-FA243C?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Music">
+  </a>
+</p>
 
 </details>
 
