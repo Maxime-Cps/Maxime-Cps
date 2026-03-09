@@ -24,11 +24,16 @@
     <summary><h2>🙋🏻‍️ About me </h2></summary>
 <br>
 
-I'm a student in Computer Science at the **University of Strasbourg**.
+I'm a Computer Science student at the **University of Strasbourg**.
 <br>
-I'm passionate about **Music**, **Golf** and **Automobile**.
+I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 
-🔭 I’m currently working on a Golf WebApp project and my Web Portfolio.
+🔭 I’m currently working on :
+
+- A Golf Statistics Tracker WebApp
+- My Web Portfolio
+- A Management WebApp for Student Associations
+- A Personnal Calendar
 
 </details>
 
