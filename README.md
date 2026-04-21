@@ -112,7 +112,7 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -167,7 +167,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2026 02:40:28 UTC
+ Last Updated on 21/04/2026 02:35:28 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
