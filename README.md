@@ -110,24 +110,22 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
-C#                       9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               15 repos            ████████████░░░░░░░░░░░░░   48.39 % 
+C#                       9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 03:29:15 UTC
+ Last Updated on 15/05/2026 03:33:00 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
