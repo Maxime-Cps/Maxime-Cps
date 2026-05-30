@@ -110,22 +110,69 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                107 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+🌆 Daytime                301 commits         ██████████████░░░░░░░░░░░   55.54 % 
+🌃 Evening                108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Tuesday                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Wednesday                175 commits         ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Thursday                 139 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Friday                   106 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Saturday                 32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Markdown                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+HTML                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+C#                       1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Java                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+
+🔥 Editors: 
+Claude Code              10 hrs 11 mins      █████████████████░░░░░░░░   67.41 % 
+WebStorm                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+IntelliJ IDEA            1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+PyCharm                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Rider                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+
+💻 Operating System: 
+Mac                      8 hrs 31 mins       ██████████████░░░░░░░░░░░   56.36 % 
+Windows                  6 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.64 % 
+```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-C#                       9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               16 repos            ████████████░░░░░░░░░░░░░   48.48 % 
+C#                       9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 03:38:12 UTC
+ Last Updated on 30/05/2026 03:04:34 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
