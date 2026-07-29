@@ -110,9 +110,9 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -143,43 +143,43 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       9 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.95 % 
-Markdown                 3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Java                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+C#                       5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   44.44 % 
+Markdown                 2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Java                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 24 mins      ██████████████████░░░░░░░   73.91 % 
-Rider                    4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-WebStorm                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Claude Code              11 hrs              █████████████████████░░░░   83.12 % 
+Rider                    1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+WebStorm                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  19 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 44 mins (90.99%)
+⏱ AI Coding Time: 12 hrs 29 mins (94.26%)
 
-✍️ 4,902 lines written by AI, 18 lines written by hand (99.63% AI-written)
+✍️ 3,580 lines written by AI, 2 lines written by hand (99.94% AI-written)
 
-🔤 191,558,644 Input Tokens, 871,054 Output Tokens
+🔤 137,564,670 Input Tokens, 579,192 Output Tokens
 
-💵 $969.17 Estimated AI Cost This Week
+💵 $696.55 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 153 AI Prompts
+🧠 21 AI Sessions, 106 AI Prompts
 
-Opus                     5,499 lines         █████████████████████████   100.00 % 
+Opus                     3,880 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 2,601 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 2,481 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -195,7 +195,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:41:22 UTC
+ Last Updated on 29/07/2026 02:47:35 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
