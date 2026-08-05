@@ -143,41 +143,41 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
-Java                     3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-C#                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-XML                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Markdown                 3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.42 % 
+Java                     2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+C#                       58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Less                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 23 mins      ████████████████████████░   95.72 % 
-Rider                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Claude Code              10 hrs 42 mins      ████████████████████████░   95.60 % 
+Rider                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 52 mins (99.33%)
+⏱ AI Coding Time: 11 hrs 6 mins (99.22%)
 
-✍️ 4,752 lines written by AI, 10 lines written by hand (99.79% AI-written)
+✍️ 4,181 lines written by AI, 10 lines written by hand (99.76% AI-written)
 
-🔤 495,724,907 Input Tokens, 852,314 Output Tokens
+🔤 474,276,420 Input Tokens, 750,197 Output Tokens
 
-💵 $2487.20 Estimated AI Cost This Week
+💵 $2383.68 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 113 AI Prompts
+🧠 9 AI Sessions, 96 AI Prompts
 
-Opus                     5,327 lines         █████████████████████████   100.00 % 
+Opus                     4,748 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 2,954 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🤖 AI-Driven — 99.76% of written lines came from AI
+📚 Verbose Prompter — average 3,246 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -193,7 +193,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 02:41:02 UTC
+ Last Updated on 05/08/2026 02:39:58 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
