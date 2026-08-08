@@ -110,7 +110,53 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                346 commits         ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+🌆 Daytime                795 commits         ███████████████░░░░░░░░░░   60.83 % 
+🌃 Evening                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  252 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Wednesday                439 commits         ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Thursday                 204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Friday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Sunday                   21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -125,7 +171,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:49:49 UTC
+ Last Updated on 08/08/2026 01:41:32 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
