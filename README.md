@@ -143,13 +143,15 @@ Sunday                   21 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              ███████████░░░░░░░░░░░░░░   43.77 % 
+Markdown                 0 secs              ████████░░░░░░░░░░░░░░░░░   33.47 % 
+HTML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -171,7 +173,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 01:41:32 UTC
+ Last Updated on 09/08/2026 01:52:23 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
