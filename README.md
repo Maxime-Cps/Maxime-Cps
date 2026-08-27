@@ -110,30 +110,30 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                406 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-🌆 Daytime                936 commits         ███████████████░░░░░░░░░░   60.47 % 
-🌃 Evening                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌞 Morning                406 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+🌆 Daytime                939 commits         ███████████████░░░░░░░░░░   60.54 % 
+🌃 Evening                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  314 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Wednesday                526 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Tuesday                  314 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Wednesday                527 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
@@ -143,41 +143,42 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
-TypeScript               3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+TypeScript               3 hrs 3 mins        █████████████████░░░░░░░░   67.05 % 
+Java                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+C#                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 8 mins       █████████████████████████   98.43 % 
-Rider                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              4 hrs 10 mins       ███████████████████████░░   91.71 % 
+Rider                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       ███████████████████████░░   93.78 % 
+Mac                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 9 mins (98.62%)
+⏱ AI Coding Time: 4 hrs 24 mins (96.87%)
 
-✍️ 2,016 lines written by AI, 8 lines written by hand (99.6% AI-written)
+✍️ 362 lines written by AI, 8 lines written by hand (97.84% AI-written)
 
-🔤 7,104,575 Input Tokens, 564,322 Output Tokens
+🔤 4,197,502 Input Tokens, 286,158 Output Tokens
 
-💵 $170.87 Estimated AI Cost This Week
+💵 $95.80 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 99 AI Prompts
+🧠 12 AI Sessions, 47 AI Prompts
 
-Opus                     2,036 lines         █████████████████████████   100.00 % 
+Opus                     378 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 3,140 characters per prompt
+🤖 AI-Driven — 97.84% of written lines came from AI
+📚 Verbose Prompter — average 5,778 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🚀 High AI Trust — 2.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -193,7 +194,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:27:35 UTC
+ Last Updated on 27/08/2026 07:42:32 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
