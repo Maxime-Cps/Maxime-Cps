@@ -119,19 +119,19 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                406 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-🌆 Daytime                939 commits         ███████████████░░░░░░░░░░   60.54 % 
-🌃 Evening                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌞 Morning                407 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+🌆 Daytime                939 commits         ███████████████░░░░░░░░░░   60.50 % 
+🌃 Evening                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Tuesday                  314 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Wednesday                527 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Tuesday                  315 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Wednesday                527 commits         ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
@@ -143,42 +143,38 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 23 mins       ███████████████████░░░░░░   75.14 % 
-C#                       25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 30 mins             █████████████░░░░░░░░░░░░   51.03 % 
+C#                       22 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 42 mins       █████████████████████░░░░   85.10 % 
-Rider                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Claude Code              36 mins             ███████████████░░░░░░░░░░   61.69 % 
+Rider                    22 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████░░░░   83.09 % 
-Mac                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (97.44%)
+⏱ AI Coding Time: 59 mins (100.0%)
 
-✍️ 103 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,033,836 Input Tokens, 199,029 Output Tokens
+🔤 3,417,148 Input Tokens, 32,600 Output Tokens
 
-💵 $72.77 Estimated AI Cost This Week
+💵 $27.71 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 32 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
-Opus                     119 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,421 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 1,158 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -194,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 09:57:39 UTC
+ Last Updated on 29/08/2026 06:00:57 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
