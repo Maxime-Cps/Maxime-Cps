@@ -119,21 +119,21 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                408 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌆 Daytime                947 commits         ███████████████░░░░░░░░░░   60.67 % 
-🌃 Evening                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+🌞 Morning                408 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌆 Daytime                956 commits         ███████████████░░░░░░░░░░   60.51 % 
+🌃 Evening                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Tuesday                  317 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Wednesday                529 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Tuesday                  317 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Wednesday                548 commits         █████████░░░░░░░░░░░░░░░░   34.68 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 
@@ -143,37 +143,37 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       22 mins             █████████████░░░░░░░░░░░░   53.05 % 
-Markdown                 13 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
-Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+C#                       22 mins             █████████████████░░░░░░░░   68.62 % 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 
 🔥 Editors: 
-Rider                    22 mins             █████████████░░░░░░░░░░░░   53.05 % 
-Claude Code              20 mins             ████████████░░░░░░░░░░░░░   46.95 % 
+Rider                    22 mins             █████████████████░░░░░░░░   68.62 % 
+Claude Code              10 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (100.0%)
+⏱ AI Coding Time: 32 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,899,838 Input Tokens, 26,364 Output Tokens
+🔤 1,787,741 Input Tokens, 8,274 Output Tokens
 
-💵 $23.28 Estimated AI Cost This Week
+💵 $12.27 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -190,7 +190,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 03:19:04 UTC
+ Last Updated on 03/09/2026 03:17:38 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
