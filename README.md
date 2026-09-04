@@ -143,37 +143,36 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       22 mins             █████████████████░░░░░░░░   68.62 % 
-Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+C#                       9 mins              ████████████████░░░░░░░░░   63.09 % 
+Other                    5 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
 
 🔥 Editors: 
-Rider                    22 mins             █████████████████░░░░░░░░   68.62 % 
-Claude Code              10 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Rider                    9 mins              ████████████████░░░░░░░░░   63.09 % 
+Claude Code              5 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (100.0%)
+⏱ AI Coding Time: 15 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,787,741 Input Tokens, 8,274 Output Tokens
+🔤 1,784,484 Input Tokens, 6,739 Output Tokens
 
-💵 $12.27 Estimated AI Cost This Week
+💵 $11.92 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 112 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -190,7 +189,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 03:17:38 UTC
+ Last Updated on 04/09/2026 03:19:50 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
