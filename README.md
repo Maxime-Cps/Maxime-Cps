@@ -143,37 +143,19 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       9 mins              ████████████████░░░░░░░░░   63.09 % 
-Other                    5 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    9 mins              ████████████████░░░░░░░░░   63.09 % 
-Claude Code              5 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 1,784,484 Input Tokens, 6,739 Output Tokens
-
-💵 $11.92 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -189,7 +171,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 03:19:50 UTC
+ Last Updated on 05/09/2026 03:19:31 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
