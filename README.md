@@ -110,30 +110,30 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                408 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-🌆 Daytime                956 commits         ███████████████░░░░░░░░░░   60.51 % 
-🌃 Evening                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-🌙 Night                  26 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌞 Morning                409 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌆 Daytime                1000 commits        ███████████████░░░░░░░░░░   60.98 % 
+🌃 Evening                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Tuesday                  317 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Wednesday                548 commits         █████████░░░░░░░░░░░░░░░░   34.68 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Tuesday                  317 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Wednesday                551 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
+Thursday                 248 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 
@@ -143,19 +143,41 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               20 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
+C#                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              31 mins             █████████████████░░░░░░░░   68.61 % 
+WebStorm                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Rider                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 35 mins (78.82%)
+
+✍️ 31 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 120,985 Input Tokens, 51,544 Output Tokens
+
+💵 $8.46 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+Opus                     34 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,388 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +193,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 03:19:31 UTC
+ Last Updated on 06/09/2026 03:20:19 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
