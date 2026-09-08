@@ -110,30 +110,30 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                409 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌆 Daytime                1000 commits        ███████████████░░░░░░░░░░   60.98 % 
-🌃 Evening                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+🌞 Morning                371 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌆 Daytime                963 commits         ███████████████░░░░░░░░░░   61.73 % 
+🌃 Evening                198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Tuesday                  317 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Wednesday                551 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
-Thursday                 248 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Friday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Sunday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Monday                   198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  319 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Wednesday                547 commits         █████████░░░░░░░░░░░░░░░░   35.06 % 
+Thursday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Saturday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Sunday                   47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 
@@ -143,57 +143,58 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               20 mins             ███████████░░░░░░░░░░░░░░   44.64 % 
-C#                       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Other                    2 hrs               ██████████████░░░░░░░░░░░   57.55 % 
+TypeScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+C#                       26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Claude Code              31 mins             █████████████████░░░░░░░░   68.61 % 
-WebStorm                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Rider                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Claude Code              1 hr 49 mins        █████████████░░░░░░░░░░░░   52.72 % 
+Notion                   1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   40.45 % 
+WebStorm                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Rider                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (78.82%)
+⏱ AI Coding Time: 2 hrs 43 mins (78.16%)
 
-✍️ 31 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,072 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 120,985 Input Tokens, 51,544 Output Tokens
+🔤 1,310,055 Input Tokens, 186,016 Output Tokens
 
-💵 $8.46 Estimated AI Cost This Week
+💵 $44.27 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 8 AI Sessions, 27 AI Prompts
 
-Opus                     34 lines            █████████████████████████   100.00 % 
+Opus                     1,188 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,388 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 465 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
+TypeScript               20 repos            ████████████░░░░░░░░░░░░░   47.62 % 
 C#                       12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 07/09/2026 03:17:50 UTC
+ Last Updated on 08/09/2026 03:27:44 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
