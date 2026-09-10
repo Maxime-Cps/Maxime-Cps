@@ -110,9 +110,9 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -143,41 +143,42 @@ Sunday                   47 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 39 mins       ███████████████░░░░░░░░░░   59.41 % 
-TypeScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-C#                       26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Other                    4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.14 % 
+TypeScript               2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+C#                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.33 % 
-Notion                   2 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.13 % 
-WebStorm                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Rider                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Claude Code              7 hrs 18 mins       █████████████████░░░░░░░░   69.60 % 
+Notion                   2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+WebStorm                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Rider                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (68.31%)
+⏱ AI Coding Time: 9 hrs 1 min (85.86%)
 
-✍️ 2,184 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,144 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,950,690 Input Tokens, 248,381 Output Tokens
+🔤 5,964,002 Input Tokens, 830,352 Output Tokens
 
-💵 $56.62 Estimated AI Cost This Week
+💵 $205.70 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 34 AI Prompts
+🧠 19 AI Sessions, 79 AI Prompts
 
-Opus                     2,304 lines         █████████████████████████   100.00 % 
+Opus                     6,264 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 895 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,882 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -194,7 +195,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 03:30:08 UTC
+ Last Updated on 10/09/2026 03:30:55 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
