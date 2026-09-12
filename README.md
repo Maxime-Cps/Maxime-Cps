@@ -143,26 +143,26 @@ Sunday                   47 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.97 % 
-TypeScript               2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-C#                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    4 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+TypeScript               2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+C#                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 21 mins       █████████████████░░░░░░░░   67.87 % 
-Notion                   3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-WebStorm                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Claude Code              7 hrs 23 mins       █████████████████░░░░░░░░   67.82 % 
+Notion                   3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+WebStorm                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Rider                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Mac                      10 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 4 mins (83.59%)
+⏱ AI Coding Time: 9 hrs 6 mins (83.52%)
 
 ✍️ 6,144 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -170,14 +170,14 @@ Mac                      10 hrs 51 mins      ███████████�
 
 💵 $207.75 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 81 AI Prompts
+🧠 21 AI Sessions, 83 AI Prompts
 
 Opus                     6,264 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,836 characters per prompt
+📚 Verbose Prompter — average 1,792 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -195,7 +195,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 03:25:56 UTC
+ Last Updated on 12/09/2026 03:32:23 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
