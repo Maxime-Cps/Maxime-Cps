@@ -119,21 +119,21 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                437 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌆 Daytime                1222 commits        ███████████████░░░░░░░░░░   59.01 % 
-🌃 Evening                375 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-🌙 Night                  37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+🌞 Morning                438 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+🌆 Daytime                1222 commits        ███████████████░░░░░░░░░░   58.44 % 
+🌃 Evening                394 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌙 Night                  37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Tuesday                  391 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Wednesday                654 commits         ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Thursday                 267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Friday                   370 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Saturday                 105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Sunday                   82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Monday                   202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Tuesday                  411 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Wednesday                654 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Thursday                 267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   370 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Saturday                 105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Sunday                   82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
@@ -143,43 +143,43 @@ Sunday                   82 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    11 hrs 47 mins      █████████████████░░░░░░░░   66.70 % 
-TypeScript               2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-HTML                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Other                    11 hrs 8 mins       █████████████████░░░░░░░░   67.77 % 
+TypeScript               1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+C#                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 20 mins      ██████████████████████░░░   86.74 % 
-Notion                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-WebStorm                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Rider                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Claude Code              14 hrs 44 mins      ██████████████████████░░░   89.68 % 
+Notion                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Rider                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      17 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 33 mins (93.61%)
+⏱ AI Coding Time: 15 hrs 57 mins (97.13%)
 
-✍️ 6,038 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,470 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,406,398 Input Tokens, 1,226,799 Output Tokens
+🔤 8,839,686 Input Tokens, 1,156,021 Output Tokens
 
-💵 $263.76 Estimated AI Cost This Week
+💵 $247.17 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 138 AI Prompts
+🧠 24 AI Sessions, 133 AI Prompts
 
-Opus                     6,113 lines         █████████████████████████   100.00 % 
+Opus                     5,541 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,849 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 1,662 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -196,7 +196,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 03:48:44 UTC
+ Last Updated on 16/09/2026 03:43:04 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
