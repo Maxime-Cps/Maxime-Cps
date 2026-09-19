@@ -110,9 +110,9 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -143,44 +143,44 @@ Sunday                   92 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    15 hrs 19 mins      ██████████████████░░░░░░░   70.06 % 
-C++                      2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-TypeScript               1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-C#                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    16 hrs 3 mins       ████████████████░░░░░░░░░   65.48 % 
+C++                      3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
-Notion                   9 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.55 % 
-CLion                    2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-WebStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Rider                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Notion                   11 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
+Claude Code              9 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.31 % 
+CLion                    2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+WebStorm                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Rider                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      21 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 50 mins (54.17%)
+⏱ AI Coding Time: 12 hrs 9 mins (49.55%)
 
-✍️ 4,114 lines written by AI, 214 lines written by hand (95.06% AI-written)
+✍️ 4,600 lines written by AI, 271 lines written by hand (94.44% AI-written)
 
-🔤 4,692,958 Input Tokens, 764,421 Output Tokens
+🔤 4,708,739 Input Tokens, 786,041 Output Tokens
 
-💵 $107.30 Estimated AI Cost This Week
+💵 $109.69 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 141 AI Prompts
+🧠 28 AI Sessions, 148 AI Prompts
 
-Opus                     4,148 lines         █████████████████████████   98.74 % 
-Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Opus                     5,028 lines         █████████████████████████   98.96 % 
+Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.06% of written lines came from AI
-📝 Concise Prompter — average 391 characters per prompt
+🤖 AI-Driven — 94.44% of written lines came from AI
+📝 Concise Prompter — average 378 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.6% of changed lines were hand-edited
+🚀 High AI Trust — 5.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -196,7 +196,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 03:37:08 UTC
+ Last Updated on 19/09/2026 03:32:03 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
