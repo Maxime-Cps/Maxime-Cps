@@ -143,44 +143,44 @@ Sunday                   92 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    14 hrs 6 mins       ████████████████░░░░░░░░░   62.14 % 
-C++                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-TypeScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other                    11 hrs 58 mins      ███████████████░░░░░░░░░░   59.66 % 
+C++                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Notion                   11 hrs 41 mins      █████████████░░░░░░░░░░░░   51.50 % 
-Claude Code              6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-CLion                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-WebStorm                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Rider                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Notion                   11 hrs 30 mins      ██████████████░░░░░░░░░░░   57.33 % 
+Claude Code              4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+CLion                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      22 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 46 mins (43.04%)
+⏱ AI Coding Time: 7 hrs 8 mins (35.57%)
 
-✍️ 4,600 lines written by AI, 274 lines written by hand (94.38% AI-written)
+✍️ 3,796 lines written by AI, 274 lines written by hand (93.27% AI-written)
 
-🔤 3,170,045 Input Tokens, 598,300 Output Tokens
+🔤 2,353,668 Input Tokens, 454,529 Output Tokens
 
-💵 $71.67 Estimated AI Cost This Week
+💵 $60.22 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 132 AI Prompts
+🧠 20 AI Sessions, 98 AI Prompts
 
-Opus                     5,028 lines         █████████████████████████   98.96 % 
-Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Opus                     4,311 lines         █████████████████████████   98.79 % 
+Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.38% of written lines came from AI
-📝 Concise Prompter — average 351 characters per prompt
+🤖 AI-Driven — 93.27% of written lines came from AI
+📝 Concise Prompter — average 192 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.94% of changed lines were hand-edited
+🚀 High AI Trust — 7.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -196,7 +196,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 03:48:24 UTC
+ Last Updated on 21/09/2026 03:43:29 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
