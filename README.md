@@ -119,21 +119,21 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                458 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-🌆 Daytime                1290 commits        ██████████████░░░░░░░░░░░   58.00 % 
-🌃 Evening                437 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌞 Morning                461 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+🌆 Daytime                1290 commits        ██████████████░░░░░░░░░░░   57.93 % 
+🌃 Evening                437 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Tuesday                  438 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Wednesday                678 commits         ████████░░░░░░░░░░░░░░░░░   30.49 % 
-Thursday                 292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Friday                   407 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Saturday                 113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Sunday                   92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Monday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Tuesday                  440 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Wednesday                678 commits         ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Thursday                 292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   408 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Saturday                 113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Sunday                   92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 
@@ -143,44 +143,43 @@ Sunday                   92 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    11 hrs 58 mins      ███████████████░░░░░░░░░░   59.66 % 
-C++                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-TypeScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Other                    11 hrs 58 mins      ███████████████░░░░░░░░░░   60.63 % 
+C++                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+TypeScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Notion                   11 hrs 30 mins      ██████████████░░░░░░░░░░░   57.33 % 
-Claude Code              4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-CLion                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Notion                   11 hrs 28 mins      ███████████████░░░░░░░░░░   58.11 % 
+Claude Code              4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+CLion                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Mac                      20 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 8 mins (35.57%)
+⏱ AI Coding Time: 6 hrs 49 mins (34.53%)
 
-✍️ 3,796 lines written by AI, 274 lines written by hand (93.27% AI-written)
+✍️ 3,252 lines written by AI, 274 lines written by hand (92.23% AI-written)
 
-🔤 2,353,668 Input Tokens, 454,529 Output Tokens
+🔤 2,185,850 Input Tokens, 413,626 Output Tokens
 
-💵 $60.22 Estimated AI Cost This Week
+💵 $56.96 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 98 AI Prompts
+🧠 17 AI Sessions, 92 AI Prompts
 
-Opus                     4,311 lines         █████████████████████████   98.79 % 
-Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Opus                     3,773 lines         █████████████████████████   98.61 % 
+Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.27% of written lines came from AI
-📝 Concise Prompter — average 192 characters per prompt
+🤖 AI-Driven — 92.23% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.09% of changed lines were hand-edited
+🚀 High AI Trust — 8.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -196,7 +195,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 03:44:20 UTC
+ Last Updated on 23/09/2026 03:44:06 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
