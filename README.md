@@ -119,21 +119,21 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                461 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-🌆 Daytime                1290 commits        ██████████████░░░░░░░░░░░   57.93 % 
-🌃 Evening                437 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+🌞 Morning                508 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌆 Daytime                1327 commits        ██████████████░░░░░░░░░░░   56.54 % 
+🌃 Evening                459 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Tuesday                  440 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Wednesday                678 commits         ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Thursday                 292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Friday                   408 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Saturday                 113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Sunday                   92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Monday                   219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Tuesday                  444 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Wednesday                683 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Thursday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   448 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Saturday                 134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
@@ -143,59 +143,59 @@ Sunday                   92 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    11 hrs 58 mins      ███████████████░░░░░░░░░░   60.63 % 
-C++                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-TypeScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Other                    6 hrs 2 mins        █████████████░░░░░░░░░░░░   51.88 % 
+C++                      3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Notion                   11 hrs 28 mins      ███████████████░░░░░░░░░░   58.11 % 
-Claude Code              4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-CLion                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Notion                   5 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.31 % 
+CLion                    3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Claude Code              1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+WebStorm                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 💻 Operating System: 
-Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (34.53%)
+⏱ AI Coding Time: 3 hrs 58 mins (34.16%)
 
-✍️ 3,252 lines written by AI, 274 lines written by hand (92.23% AI-written)
+✍️ 1,230 lines written by AI, 274 lines written by hand (81.78% AI-written)
 
-🔤 2,185,850 Input Tokens, 413,626 Output Tokens
+🔤 1,014,851 Input Tokens, 144,054 Output Tokens
 
-💵 $56.96 Estimated AI Cost This Week
+💵 $30.71 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 92 AI Prompts
+🧠 10 AI Sessions, 59 AI Prompts
 
-Opus                     3,773 lines         █████████████████████████   98.61 % 
-Sonnet                   53 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Opus                     1,737 lines         ████████████████████████░   97.04 % 
+Sonnet                   53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.23% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.06% of changed lines were hand-edited
+🤖 AI-Driven — 81.78% of written lines came from AI
+📝 Concise Prompter — average 240 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 16.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ████████████░░░░░░░░░░░░░   47.62 % 
-C#                       12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               20 repos            ████████████░░░░░░░░░░░░░   48.78 % 
+C#                       11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 23/09/2026 03:44:06 UTC
+ Last Updated on 24/09/2026 03:35:33 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
