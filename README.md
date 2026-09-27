@@ -119,21 +119,21 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-🌆 Daytime                1199 commits        ███████████████░░░░░░░░░░   58.23 % 
-🌃 Evening                427 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌞 Morning                381 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌆 Daytime                1199 commits        ███████████████░░░░░░░░░░   58.20 % 
+🌃 Evening                427 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Tuesday                  284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                619 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
-Thursday                 294 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Friday                   448 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Tuesday                  285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Wednesday                619 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Thursday                 294 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Friday                   448 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Sunday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 
 
@@ -143,39 +143,19 @@ Sunday                   93 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      15 mins             ████████████████████████░   97.89 % 
-CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-CLion                    8 mins              █████████████░░░░░░░░░░░░   52.16 % 
-Claude Code              6 mins              ███████████░░░░░░░░░░░░░░   44.04 % 
-Notion                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (60.43%)
-
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
-
-🔤 28,921 Input Tokens, 3,507 Output Tokens
-
-💵 $11.24 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-Opus                     164 lines           █████████████████████░░░░   85.86 % 
-Sonnet                   27 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -191,7 +171,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 03:57:39 UTC
+ Last Updated on 27/09/2026 04:05:06 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
