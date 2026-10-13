@@ -118,21 +118,21 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                574 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌆 Daytime                1478 commits        ██████████████░░░░░░░░░░░   55.44 % 
-🌃 Evening                534 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+🌞 Morning                573 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+🌆 Daytime                1515 commits        ██████████████░░░░░░░░░░░   55.80 % 
+🌃 Evening                544 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌙 Night                  83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Tuesday                  326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                1010 commits        █████████░░░░░░░░░░░░░░░░   37.88 % 
-Thursday                 364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Friday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Sunday                   94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Monday                   294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Tuesday                  326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                1010 commits        █████████░░░░░░░░░░░░░░░░   37.20 % 
+Thursday                 364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Saturday                 159 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Sunday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -142,13 +142,13 @@ Sunday                   94 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    28 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Notion                   28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -161,16 +161,16 @@ No AI Coding Activity Tracked This Week
 
 ```text
 TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   43.18 % 
+C#                       11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 12/10/2026 04:44:45 UTC
+ Last Updated on 13/10/2026 05:52:53 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
