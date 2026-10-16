@@ -113,26 +113,26 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                601 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-🌆 Daytime                1774 commits        ██████████████░░░░░░░░░░░   55.70 % 
-🌃 Evening                652 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-🌙 Night                  158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌞 Morning                601 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+🌆 Daytime                1794 commits        ██████████████░░░░░░░░░░░   55.91 % 
+🌃 Evening                656 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌙 Night                  158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Tuesday                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Wednesday                1028 commits        ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Thursday                 426 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   497 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Sunday                   112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Monday                   500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Tuesday                  403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                1028 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Thursday                 444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   501 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Saturday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 
@@ -142,13 +142,13 @@ Sunday                   112 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    3 hrs 42 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 4 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notion                   3 hrs 42 mins       █████████████████████████   100.00 % 
+Notion                   4 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -160,17 +160,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   43.18 % 
-C#                       11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   42.22 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 15/10/2026 03:35:21 UTC
+ Last Updated on 16/10/2026 03:30:55 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
