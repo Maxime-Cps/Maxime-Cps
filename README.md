@@ -109,7 +109,7 @@ I'm passionate about **Music**, **Golf** and **Automobile Sports**.
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2028%20mins-blue?style=flat)
 
@@ -142,13 +142,18 @@ Sunday                   115 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    6 hrs 37 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 1 min         ████████████████████████░   95.51 % 
+C#                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Notion                   6 hrs 37 mins       █████████████████████████   100.00 % 
+Notion                   3 hrs 1 min         ████████████████████████░   95.51 % 
+Rider                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 1 min         ████████████████████████░   95.51 % 
+Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -170,7 +175,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 03:40:13 UTC
+ Last Updated on 22/10/2026 03:42:00 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
