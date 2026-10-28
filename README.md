@@ -142,15 +142,18 @@ Sunday                   115 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       8 mins              █████████████████████████   99.41 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Other                    1 hr 42 mins        ███████████████████████░░   92.30 % 
+C#                       8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Rider                    8 mins              █████████████████████████   99.41 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Notion                   1 hr 42 mins        ███████████████████████░░   92.30 % 
+Rider                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 42 mins        ███████████████████████░░   92.30 % 
+Windows                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -172,7 +175,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 04:04:48 UTC
+ Last Updated on 28/10/2026 04:24:09 UTC
 <!--END_SECTION:waka-->
 
 ![Maxime-Cps's Stats](https://github-readme-stats-maximes-projects-0d1947d9.vercel.app/api?username=Maxime-Cps&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
